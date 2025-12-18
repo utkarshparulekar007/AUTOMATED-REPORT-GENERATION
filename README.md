@@ -115,3 +115,4 @@ use of Python for building automated reporting solutions.
 
 # OUTPUT
 
+[Sales_Report.pdf](https://github.com/user-attachments/files/24226987/Sales_Report.pdf)
